@@ -1,7 +1,7 @@
 import random
 
 def main():
-    min_str = '-0.1'
+    min_str = '-0.10'
     max_str = '0.1'
 
     min_digit_num = len(min_str.split('.')[1])
